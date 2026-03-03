@@ -8,7 +8,7 @@ body {
   padding: 0;
 
 
- background-image: url("C:\\Users\\beatr\\OneDrive\\Desktop\\US HISTORY QUIZ APP\\new from gbt\\IMAGES\\patriotic background.png");
+ background-image: url("images/patriotic background.png");
   background-repeat: repeat;
   background-position: center;
   background-attachment: fixed;
@@ -149,4 +149,5 @@ input,
 
 .wrong-list {
   margin-top: 1rem;
+
 }
