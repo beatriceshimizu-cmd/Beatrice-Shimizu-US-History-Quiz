@@ -1,1 +1,1 @@
-This is a US history quiz
+This is a US history interactive quiz
